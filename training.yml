@@ -1,0 +1,6569 @@
+- input:
+  - Reflect on requirement management and architecture development in feedback phase in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in feedback phase in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in feedback phase in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in feedback phase in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in social dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in social dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in social dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in social dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in social dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in social dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in social dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in social dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in goal dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in goal dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in goal dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in goal dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in goal dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in goal dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in goal dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in goal dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in process dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in process dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in process dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in process dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in process dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in process dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in process dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in process dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in social dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in social dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in social dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in social dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in social dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in social dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in social dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in social dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in goal dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in goal dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in goal dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in goal dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in goal dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in goal dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in goal dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in goal dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in process dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in process dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in process dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in process dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in process dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in process dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in process dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in process dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in feedback phase in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in feedback phase in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in feedback phase in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in feedback phase in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in social dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in social dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in social dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in social dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in social dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in social dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in social dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in social dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in goal dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in goal dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in goal dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in goal dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in goal dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in goal dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in goal dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in goal dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in process dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in process dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in process dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in process dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in process dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in process dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in process dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in process dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in social dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in social dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in social dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in social dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in social dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in social dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in social dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in social dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in goal dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in goal dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in goal dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in goal dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in goal dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in goal dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in goal dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in goal dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in process dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in process dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in process dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in process dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in process dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in process dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in process dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in process dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in feedback phase in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in feedback phase in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in feedback phase in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in feedback phase in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in reflection phase in social dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in social dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in social dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in social dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in reflection phase in social dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in social dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in social dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in social dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in reflection phase in goal dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in goal dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in goal dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in goal dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in reflection phase in goal dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in goal dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in goal dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in goal dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in reflection phase in process dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in process dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in process dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in process dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in reflection phase in process dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in process dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in process dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in process dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in planning phase in social dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in social dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in social dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in social dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in planning phase in social dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in social dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in social dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in social dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in planning phase in goal dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in goal dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in goal dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in goal dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in planning phase in goal dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in goal dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in goal dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in goal dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in planning phase in process dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in process dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in process dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in process dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in planning phase in process dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in process dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in process dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in process dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in feedback phase in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in feedback phase in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in feedback phase in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in feedback phase in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in reflection phase in social dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in social dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in social dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in social dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in reflection phase in social dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in social dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in social dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in social dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in reflection phase in goal dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in goal dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in goal dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in goal dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in reflection phase in goal dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in goal dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in goal dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in goal dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in reflection phase in process dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in process dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in process dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in process dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in reflection phase in process dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in process dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in process dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in process dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in planning phase in social dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in social dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in social dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in social dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in planning phase in social dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in social dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in social dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in social dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in planning phase in goal dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in goal dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in goal dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in goal dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in planning phase in goal dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in goal dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in goal dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in goal dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in planning phase in process dimension with team level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in process dimension with team level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in process dimension with team level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in process dimension with team level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in planning phase in process dimension with individual level in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in process dimension with individual level in product development and aims to method adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in process dimension with individual level in product development and aims to tool adaption.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in process dimension with individual level in product development and aims to adaption of results.
+  domains:
+  - product development
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in feedback phase in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in feedback phase in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in feedback phase in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in feedback phase in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in social dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in social dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in social dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in social dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in social dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in social dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in social dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in social dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in goal dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in goal dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in goal dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in goal dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in goal dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in goal dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in goal dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in goal dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in process dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in process dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in process dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in process dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in process dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in process dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in process dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in reflection phase in process dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in social dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in social dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in social dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in social dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in social dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in social dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in social dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in social dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in goal dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in goal dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in goal dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in goal dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in goal dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in goal dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in goal dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in goal dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in process dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in process dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in process dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in process dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in process dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in process dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in process dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on requirement management and architecture development in planning phase in process dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in feedback phase in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in feedback phase in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in feedback phase in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in feedback phase in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in social dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in social dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in social dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in social dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in social dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in social dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in social dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in social dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in goal dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in goal dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in goal dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in goal dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in goal dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in goal dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in goal dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in goal dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in process dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in process dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in process dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in process dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in process dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in process dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in process dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in reflection phase in process dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in social dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in social dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in social dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in social dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in social dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in social dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in social dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in social dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in goal dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in goal dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in goal dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in goal dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in goal dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in goal dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in goal dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in goal dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in process dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in process dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in process dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in process dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in process dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in process dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in process dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on subsystem development and implementation in planning phase in process dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - subsystem development and implementation
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in feedback phase in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in feedback phase in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in feedback phase in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in feedback phase in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in reflection phase in social dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in social dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in social dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in social dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in reflection phase in social dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in social dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in social dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in social dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in reflection phase in goal dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in goal dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in goal dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in goal dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in reflection phase in goal dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in goal dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in goal dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in goal dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in reflection phase in process dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in process dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in process dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in process dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in reflection phase in process dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in process dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in process dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in reflection phase in process dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in planning phase in social dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in social dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in social dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in social dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in planning phase in social dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in social dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in social dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in social dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in planning phase in goal dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in goal dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in goal dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in goal dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in planning phase in goal dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in goal dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in goal dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in goal dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in planning phase in process dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in process dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in process dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in process dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on system integration and protection in planning phase in process dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in process dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in process dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on system integration and protection in planning phase in process dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - system integration and protection
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in feedback phase in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in feedback phase in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in feedback phase in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in feedback phase in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in reflection phase in social dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in social dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in social dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in social dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in reflection phase in social dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in social dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in social dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in social dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in reflection phase in goal dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in goal dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in goal dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in goal dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in reflection phase in goal dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in goal dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in goal dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in goal dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in reflection phase in process dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in process dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in process dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in process dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in reflection phase in process dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in process dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in process dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in reflection phase in process dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in planning phase in social dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in social dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in social dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in social dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in planning phase in social dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in social dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in social dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in social dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - social
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in planning phase in goal dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in goal dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in goal dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in goal dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in planning phase in goal dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in goal dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in goal dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in goal dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - goal
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in planning phase in process dimension with team level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in process dimension with team level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in process dimension with team level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in process dimension with team level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management in planning phase in process dimension with individual level in engineering design and aims to process adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in process dimension with individual level in engineering design and aims to method adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - method adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in process dimension with individual level in engineering design and aims to tool adaption.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - tool adaption
+
+- input:
+  - Reflect on project and risk management in planning phase in process dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Please give me some reflection questions on project and risk management in planning phase in process dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk management during the planning phase, focusing on the process dimension and individual level, aiming for result adaptation in engineering design.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - In the planning phase of engineering design, reflect on project and risk management at the individual and process levels to support result adaptation.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Consider how project and risk management are handled in the planning phase from a process-oriented and individual perspective, aiming at adapting the results.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Think about the planning stage in terms of project and risk management, especially at the individual level within the process dimension, for better outcome adaptation..
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Refelct on project and risk managment in plannig phase in proccess dimmension with indivdual level in engineering desgin and aims to adaption of resluts.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Reflect on project and risk managment in planning phaze in process dimenson with individuale level in engeenering design and aim to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Refelect on project & risk managment during plannning phase in procces dimension at indivdual level aiming to adapt reslts in engineering desgin.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Give me some reflection questions on project and risk management in planning phase in process dimension with individual level in engineering design and aims to adaption of results.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - During the engineering design planning phase, examine project and risk management from the individual and process perspectives to adapt results.
+  domains:
+  - engineering design
+  subdomains:
+  - project and risk management
+  phases:
+  - planning
+  dimensions:
+  - process
+  level:
+  - individual level
+  objectives:
+  - adaption of results
+
+- input:
+  - Please give me some reflection questions.
+  domains:
+  - none
+  subdomains:
+  - none
+  phases:
+  - none
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - none
+
+- input:
+  - Can you give me some reflection questions?
+  domains:
+  - none
+  subdomains:
+  - none
+  phases:
+  - none
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - none
+
+- input:
+  - Reflect on requirement management and architecture development in feedback phase and aims to process adaption.
+  domains:
+  - none
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect in feedback phase in product development and aims to process adaption.
+  domains:
+  - product development
+  subdomains:
+  - none
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - process adaption
+
+- input:
+  - Reflect on requirement management and architecture development in feedback phase.
+  domains:
+  - none
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - none
+
+- input:
+  - Reflect in feedback phase.
+  domains:
+  - none
+  subdomains:
+  - none
+  phases:
+  - feedback
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - none
+
+- input:
+  - Reflect in product development.
+  domains:
+  - product development
+  subdomains:
+  - none
+  phases:
+  - none
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - none
+
+- input:
+  - Reflect in reflection phase.
+  domains:
+  - none
+  subdomains:
+  - none
+  phases:
+  - reflection
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - none
+
+- input:
+  - Please reflect in reflection phase.
+  domains:
+  - none
+  subdomains:
+  - none
+  phases:
+  - reflection
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - none
+
+- input:
+  - I want some reflection questions in reflection phase.
+  domains:
+  - none
+  subdomains:
+  - none
+  phases:
+  - reflection
+  dimensions:
+  - none
+  level:
+  - none
+  objectives:
+  - none
+
+- input:
+  - Give us some reflection questions about how we dealt with requirement changes.
+  domains:
+  - none
+  subdomains:
+  - requirement management and architecture development
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - none
+
+- input:
+  - We want some reflection questions in managing risks in projects.
+  domains:
+  - none
+  subdomains:
+  - project and risk management
+  phases:
+  - reflection
+  dimensions:
+  - process
+  level:
+  - team level
+  objectives:
+  - none
