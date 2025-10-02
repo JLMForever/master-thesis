@@ -34,9 +34,9 @@ if 'step' not in st.session_state:
     st.session_state.processing = False  # Track if we're processing
 
 # RAGFlow configuration
-RAGFLOW_BASE = "http://192.168.0.101:80"
-RAGFLOW_API_KEY = "ragflow-g4N2MwYzA2ODgwZjExZjBiYjFkZTJhMD"
-RAGFLOW_CHAT_ID = "0ad97714832011f08db18a0f7ba23ecf"
+RAGFLOW_BASE = "http://localhost:80"
+RAGFLOW_API_KEY = "ragflow-MxYTc0ZDhlOWY3ZDExZjBhOGFiN2FmNG"
+RAGFLOW_CHAT_ID = "0ea0a5f49f7f11f0a56c7af4dda32616"
 
 RAGFLOW_HEADERS = {
     "Content-Type": "application/json",
@@ -501,4 +501,5 @@ st.markdown("""
         min-height: 150px;
     }
 </style>
+
 """, unsafe_allow_html=True)
